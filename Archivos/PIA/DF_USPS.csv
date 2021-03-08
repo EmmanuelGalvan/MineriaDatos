@@ -1,4 +1,4 @@
-id,Dia,Manera_de_la_muerte,Arma,Edad,Genero,Raza,Ciudad,Estado,Signos_de_enfermedades_mentales,Nivel_de_amenaza,flee,Categoria_de_armas
+id,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,arms_category
 3,2015-01-02,shot,gun,53.0,M,Asian,Shelton,WA,True,attack,Not fleeing,Guns
 4,2015-01-02,shot,gun,47.0,M,White,Aloha,OR,False,attack,Not fleeing,Guns
 5,2015-01-03,shot and Tasered,unarmed,23.0,M,Hispanic,Wichita,KS,False,other,Not fleeing,Unarmed
