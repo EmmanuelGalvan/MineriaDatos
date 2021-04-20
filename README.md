@@ -13,3 +13,4 @@
 * [Mapa Mental 2](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/MapaMental_2_1741418.pdf)
 * [Práctica de Visualización](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Practica%20de%20limpieza/Visualizacion_Equipo9.ipynb)
 * [Segunda entrega del PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9.ipynb)
+* [Segunda entrega del PIA con correcciones](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9%20-%20V2.ipynb)
