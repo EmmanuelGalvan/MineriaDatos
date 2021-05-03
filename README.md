@@ -14,4 +14,4 @@
 * [Práctica de Visualización](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Practica%20de%20limpieza/Visualizacion_Equipo9.ipynb)
 * [Segunda entrega del PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9.ipynb)
 * [Segunda entrega del PIA con correcciones](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9%20-%20V2.ipynb)
-* [Poster](https://github.com/KarenGomez2203/Mineria-de-datos/blob/main/Poster_Equipo9.pdf)
+* [Póster](https://github.com/KarenGomez2203/Mineria-de-datos/blob/main/Poster_Equipo9.pdf)
