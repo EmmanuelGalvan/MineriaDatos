@@ -16,5 +16,5 @@
 * [Segunda entrega del PIA con correcciones](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9%20-%20V2.ipynb)
 
 ## Fase 3
-* [Póster](https://github.com/KarenGomez2203/Mineria-de-datos/blob/main/Poster_Equipo9.pdf)
+* [Póster](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Poster_Equipo9.png)
 * [Entrega Final del PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/AvancePIA_II_Grupo3_Equipo9%20-%20V3.ipynb)
